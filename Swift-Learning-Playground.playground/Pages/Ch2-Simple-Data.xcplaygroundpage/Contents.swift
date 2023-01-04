@@ -2,7 +2,7 @@ import Foundation
 
 /* Creating variables/constants */
 
-var greeting = "Hello, playground"
+var greeting = "Welcome to Swift!"
 
 var name = "Jeremy"
 name = "Arnav"
