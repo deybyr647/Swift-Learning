@@ -3,5 +3,6 @@
     <pages>
         <page name='Arrays'/>
         <page name='Dictionaries'/>
+        <page name='Sets'/>
     </pages>
 </playground>
