@@ -6,5 +6,6 @@
         <page name='Sets'/>
         <page name='Enums'/>
         <page name='Type Annotations'/>
+        <page name='Checkpoint'/>
     </pages>
 </playground>
