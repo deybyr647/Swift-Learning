@@ -4,5 +4,7 @@
         <page name='Arrays'/>
         <page name='Dictionaries'/>
         <page name='Sets'/>
+        <page name='Enums'/>
+        <page name='Type Annotations'/>
     </pages>
 </playground>
